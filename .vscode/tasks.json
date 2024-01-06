@@ -1,0 +1,238 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile C source code using /usr/bin/gcc",
+      "type": "shell",
+      "command": "/usr/bin/gcc",
+      "args": [
+        "-I",
+        "${fileDirname}/../include/",
+        "-ggdb3",
+        "-std=c2x",
+        "--verbose",
+        "-Wall",
+        "-pedantic-errors",
+        "-fdiagnostics-color=always",
+        "-o",
+        "${fileDirname}/../bin/${fileBasename}.gcc.o",
+        "${file}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Compile C source code using /usr/bin/clang",
+      "type": "shell",
+      "command": "/usr/bin/clang",
+      "args": [
+        "-I",
+        "${fileDirname}/../include/",
+        "-std=c2x",
+        "-ggdb3",
+        "--verbose",
+        "-fdiagnostics-color=always",
+        "-o",
+        "${fileDirname}/../bin/${fileBasename}.clang.o",
+        "${file}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Compile C++ source code using /usr/bin/g++",
+      "type": "shell",
+      "command": "/usr/bin/g++",
+      "args": [
+        "-I",
+        "${fileDirname}/../include/",
+        "-ggdb3",
+        "-std=c++23",
+        "--verbose",
+        "-Wall",
+        "-pedantic-errors",
+        "-fdiagnostics-color=always",
+        "-o",
+        "${fileDirname}/../bin/${fileBasename}.g++.o",
+        "${file}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Compile C++ source code using /usr/bin/clang++",
+      "type": "shell",
+      "command": "/usr/bin/clang++",
+      "args": [
+        "-I",
+        "${fileDirname}/../include/",
+        "-std=c++23",
+        "-ggdb3",
+        "--verbose",
+        "-fdiagnostics-color=always",
+        "-o",
+        "${fileDirname}/../bin/${fileBasename}.clang++.o",
+        "${file}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },        
+    {
+      "label": "Check rust source using Cargo",
+      "type": "shell",
+      "command": "/usr/bin/cargo",
+      "args": [
+        "--verbose",
+        "--verbose",
+        "check",
+        "--verbose",
+        "--verbose",
+        "--bin",
+        "${fileBasenameNoExtension}",
+        "--release",
+        "--manifest-path",
+        "${fileDirname}/../Cargo.toml"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Build rust source using Cargo",
+      "type": "shell",
+      "command": "/usr/bin/cargo",
+      "args": [
+        "--verbose",
+        "--verbose",
+        "build",
+        "--verbose",
+        "--verbose",
+        "--bin",
+        "${fileBasenameNoExtension}",
+        "--release",
+        "--manifest-path",
+        "${fileDirname}/../Cargo.toml"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Run rust crate using Cargo",
+      "type": "shell",
+      "command": "/usr/bin/cargo",
+      "args": [
+        "--verbose",
+        "--verbose",
+        "run",
+        "--verbose",
+        "--verbose",
+        "--bin",
+        "${fileBasenameNoExtension}",
+        "--release",
+        "--manifest-path",
+        "${fileDirname}/../Cargo.toml"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Compile Java source files with Java compiler",
+      "type": "shell",
+      "command": "/usr/bin/javac",
+      "args": [
+        "-verbose",
+        "-source",
+        "21",
+        "-target",
+        "21",
+        "-g",
+        "-cp",
+        "/run/media/ramumsrk/16GiB/www.youtube.com/@zlliu246/playlists/can-you-solve-this-in-one-line/java-programming-language/bin",
+        "-d",
+        "/run/media/ramumsrk/16GiB/www.youtube.com/@zlliu246/playlists/can-you-solve-this-in-one-line/java-programming-language/bin",
+        "/run/media/ramumsrk/16GiB/www.youtube.com/@zlliu246/playlists/can-you-solve-this-in-one-line/java-programming-language/src/com/youtube/www/zlliu246/playlists/can_you_solve_this_in_one_line/*.java"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Run Java class files with Java interpreter",
+      "type": "shell",
+      "command": "/usr/bin/java",
+      "args": [
+        "-verbose",
+        "-cp",
+        "/run/media/ramumsrk/16GiB/www.youtube.com/@zlliu246/playlists/can-you-solve-this-in-one-line/java-programming-language/bin",
+        "com.youtube.www.zlliu246.playlists.can_you_solve_this_in_one_line.Main"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Build C# sharp projects",
+      "type": "shell",
+      "command": "/usr/bin/dotnet",
+      "args": [
+        "build",
+        "${fileDirname}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Run C# sharp projects",
+      "type": "shell",
+      "command": "/usr/bin/dotnet",
+      "args": [
+        "run",
+        "--project",
+        "${fileDirname}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    },
+    {
+      "label": "Compile and Run Perl programs",
+      "type": "shell",
+      "command": "/usr/bin/perl5.38.2",
+      "args": [
+        "-M5.038.2",
+        "-Mutf8",
+        "-Mwarnings",
+        "-Mstrict",
+        "-w",
+        "-W",
+        "-T",
+        "-l",
+        "${file}"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false,
+      }
+    }    
+  ]
+}

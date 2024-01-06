@@ -1,0 +1,13 @@
+# Ignore Microsoft `*.sln' solution
+# files
+*.sln
+# Ignore `*.o' files obtained from
+# compiling and linking source files
+*.o
+# Ignore `bin/' and `debug/' directories
+bin/
+debug/
+# Ignore `obj/' directory
+obj/
+# Ignore `target/' directory
+target/
