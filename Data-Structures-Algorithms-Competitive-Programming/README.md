@@ -5,5 +5,7 @@
 * [Algoritmi Academy](./Algoritmi-Academy/)
 ## G
 * [Gennady Korotkevich](./Gennady-Korotkevich/)
+## P
+* [Pavel Mavrin](./Pavel-Mavrin/)
 ## S
 * [ShashCode](./ShashCode/)
