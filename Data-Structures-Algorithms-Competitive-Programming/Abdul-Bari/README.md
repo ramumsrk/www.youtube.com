@@ -1,0 +1,8 @@
+# [Abdul Bari](https://www.youtube.com/@abdul_bari)
+1. [Home](./Home/)
+2. [Videos](./Videos/)
+3. [Playlists](./Playlists/)
+4. [Posts](./Posts/)
+5. [Facebook](https://www.facebook.com/mohammed.bari1)
+6. [Facebook Page](https://www.facebook.com/bari.guru/)
+7. [Patreon](https://www.patreon.com/AbdulBari)
