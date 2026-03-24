@@ -1,0 +1,7 @@
+# [Algoritmi Academy](https://www.youtube.com/@AlgoritmiAcademy)
+1. [Home](./Home/)
+2. [Videos](./Videos/)
+3. [Shorts](./Shorts/)
+4. [Playlists](./Playlists/)
+5. [Posts](./Posts/)
+6. [Website](https://algoritmiacademy.com/)
