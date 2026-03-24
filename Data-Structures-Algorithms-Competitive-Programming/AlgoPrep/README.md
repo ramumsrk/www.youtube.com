@@ -1,0 +1,7 @@
+# [AlgoPrep](https://www.youtube.com/@algoprep_official)
+1. [Home](./Home/)
+2. [Videos](./Videos/)
+3. [Live](./Live/)
+4. [Courses](./Courses/)
+5. [Playlists](./Playlists/)
+6. [Posts](./Posts/)
