@@ -1,0 +1,12 @@
+# [ShashCode](https://www.youtube.com/@shashwat_tiwari_st)
+1. [Home](./Home/)
+2. [Videos](./Videos/)
+3. [Shorts](./Shorts/)
+4. [Live](./Live/)
+5. [Courses](./Courses/)
+6. [Playlists](./Playlists/)
+7. [Posts](./Posts/)
+## Links
+1. [Website](https://shashcode.com/)
+2. [Instagram](https://www.instagram.com/shashwat_tiwari_st/)
+3. [LinkedIn](https://www.linkedin.com/in/shashwattiwari1999)
