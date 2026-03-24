@@ -5,6 +5,8 @@
 * [Algoritmi Academy](./Algoritmi-Academy/)
 ## G
 * [Gennady Korotkevich](./Gennady-Korotkevich/)
+## L
+[Learn to Code with CodeChef](./Learn-to-Code-with-CodeChef/)
 ## P
 * [Pavel Mavrin](./Pavel-Mavrin/)
 ## R
