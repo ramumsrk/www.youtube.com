@@ -13,6 +13,7 @@
 ## P
 * [Pavel Mavrin](./Pavel-Mavrin/)
 * [Profound Academy](./Profound-Academy/)
+* [Programming Pathshala](./Programming-Pathshala/)
 ## R
 * [Repovive TV](./Repovive-TV/)
 ## S
