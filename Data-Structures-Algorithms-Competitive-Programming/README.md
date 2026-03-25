@@ -12,6 +12,7 @@
 * [Learn to Code with CodeChef](./Learn-to-Code-with-CodeChef/)
 ## P
 * [Pavel Mavrin](./Pavel-Mavrin/)
+* [Profound Academy](./Profound-Academy/)
 ## R
 * [Repovive TV](./Repovive-TV/)
 ## S
