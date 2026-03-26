@@ -21,4 +21,5 @@
 ## S
 * [ShashCode](./ShashCode/)
 ## T
+* [TLE Eliminators - by Priyansh](./TLE-Eliminators-by-Priyansh/)
 * [TrainUrBrainX - Shivam Shakya](./TrainUrBrainX-Shivam-Shakya/)
