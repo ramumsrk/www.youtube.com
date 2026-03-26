@@ -14,6 +14,7 @@
 * [Learn to Code with CodeChef](./Learn-to-Code-with-CodeChef/)
 ## P
 * [Pavel Mavrin](./Pavel-Mavrin/)
+* [Priyansh Agarwal](./Priyansh-Agarwal/)
 * [Profound Academy](./Profound-Academy/)
 * [Programming Pathshala](./Programming-Pathshala/)
 ## R
