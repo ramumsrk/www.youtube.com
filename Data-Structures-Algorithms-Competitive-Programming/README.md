@@ -5,6 +5,7 @@
 * [AlgoPrep](./AlgoPrep/)
 * [Algoritmi Academy](./Algoritmi-Academy/)
 ## C
+* [College Wallah](./College-Wallah/)
 * [@csalgo](./atcsalgo/)
 ## G
 * [Gennady Korotkevich](./Gennady-Korotkevich/)
