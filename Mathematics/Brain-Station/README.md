@@ -1,0 +1,8 @@
+# [Brain Station](https://www.youtube.com/@brain_station_videos)
+1. [Home](./Home/)
+2. [Live](./Live/)
+3. [Playlists](./Playlists/)
+4. [Posts](./Posts/)
+5. [Shorts](./Shorts/)
+6. [Videos](./Videos/)
+7. [Patreon](https://www.patreon.com/BrainStation)
