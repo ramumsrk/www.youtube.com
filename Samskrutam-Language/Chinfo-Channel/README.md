@@ -7,3 +7,6 @@
 6. [Courses](./Courses/)
 7. [Playlists](./Playlists/)
 8. [Posts](./Posts/)
+9. [Website](https://chinfo.org/)
+10. [Facebook](https://www.facebook.com/CIFKochi)
+11. [X](https://x.com/ciftweets)
