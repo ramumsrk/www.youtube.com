@@ -1,0 +1,8 @@
+# [numiqo](https://www.youtube.com/@numiqo)
+1. [Home](./Home/)
+2. [Videos](./Videos/)
+3. [Shorts](./Shorts/)
+4. [Courses](./Courses/)
+5. [Playlists](./Playlists/)
+6. [Posts](./Posts/)
+7. [Website](https://numiqo.com/)
