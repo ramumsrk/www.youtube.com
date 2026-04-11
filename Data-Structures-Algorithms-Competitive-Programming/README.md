@@ -22,6 +22,7 @@
 * [Repovive TV](./Repovive-TV/)
 ## S
 * [ShashCode](./ShashCode/)
+* [Sebastian Wild (Lectures)](./Sebastian-Wild-Lectures/)
 ## T
 * [TLE Eliminators - by Priyansh](./TLE-Eliminators-by-Priyansh/)
 * [TrainUrBrainX - Shivam Shakya](./TrainUrBrainX-Shivam-Shakya/)

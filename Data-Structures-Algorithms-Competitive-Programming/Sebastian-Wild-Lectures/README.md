@@ -1,0 +1,8 @@
+# [Sebastian Wild (Lectures)](https://www.youtube.com/@SebastianWildLectures)
+1. [Home](./Home/)
+2. [Videos](./Videos/)
+3. [Shorts](./Shorts/)
+4. [Live](./Live/)
+5. [Courses](./Courses/)
+6. [Playlists](./Playlists/)
+7. [Webiste](https://www.wild-inter.net/)
