@@ -4,6 +4,7 @@
 * [AlgoMasterIO](./AlgoMasterIO/)
 * [AlgoPrep](./AlgoPrep/)
 * [Algoritmi Academy](./Algoritmi-Academy/)
+* [Algorithms and Coding Club, IIT Delhi](./Algorithms-and-Coding-Club-IIT-Delhi/)
 ## C
 * [College Wallah](./College-Wallah/)
 * [@csalgo](./atcsalgo/)
