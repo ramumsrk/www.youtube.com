@@ -25,5 +25,6 @@
 * [ShashCode](./ShashCode/)
 * [Sebastian Wild (Lectures)](./Sebastian-Wild-Lectures/)
 ## T
+* [TAP ACADEMY](./TAP-ACADEMY/)
 * [TLE Eliminators - by Priyansh](./TLE-Eliminators-by-Priyansh/)
 * [TrainUrBrainX - Shivam Shakya](./TrainUrBrainX-Shivam-Shakya/)
