@@ -24,6 +24,7 @@
 * [Repovive TV](./Repovive-TV/)
 ## S
 * [ShashCode](./ShashCode/)
+* [Shreyaans Jain](./Shreyaans-Jain/)
 * [Sebastian Wild (Lectures)](./Sebastian-Wild-Lectures/)
 ## T
 * [TAP ACADEMY](./TAP-ACADEMY/)

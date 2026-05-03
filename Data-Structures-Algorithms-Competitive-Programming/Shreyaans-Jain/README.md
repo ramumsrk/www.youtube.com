@@ -1,0 +1,8 @@
+# [Shreyaans Jain](https://www.youtube.com/@shreyaansjain06)
+1. [Home](./Home/)
+2. [Videos](./Videos/)
+3. [Shorts](./Shorts/)
+4. [Playlists](./Playlists/)
+5. [Posts](./Posts/)
+6. [X](https://x.com/shreyaansjain06)
+7. [LinkedIn](https://www.linkedin.com/in/shreyaansjain06/)
