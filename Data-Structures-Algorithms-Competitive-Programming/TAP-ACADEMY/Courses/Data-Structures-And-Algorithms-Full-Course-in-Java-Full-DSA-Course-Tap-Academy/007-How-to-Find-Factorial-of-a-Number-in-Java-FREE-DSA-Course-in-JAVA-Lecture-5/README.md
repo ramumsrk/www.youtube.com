@@ -1,0 +1,1 @@
+# [How to Find Factorial of a Number in Java | FREE DSA Course in JAVA | Lecture 5](https://www.youtube.com/watch?v=hjcxNWkZS0k&list=PLU83Ru7iGtAvP1rqt65MCDSBPFCzUKGXG&index=7)
