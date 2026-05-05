@@ -9,3 +9,5 @@
 * [Professor Dave Explains](./Professor-Dave-Explains/)
 ## R
 * [Reenu Math Academy](./Reenu-Math-Academy/)
+## S
+* [Sri Chaitanya Academy NEET](./Sri-Chaitanya-Academy-NEET/)
