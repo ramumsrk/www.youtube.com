@@ -1,0 +1,1 @@
+# [84. Theoretical Probability, Permutations and Combinations](https://www.youtube.com/watch?v=0ZsSRx0o0zE&list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&index=85)

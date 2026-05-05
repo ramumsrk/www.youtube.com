@@ -1,1 +1,2 @@
 # [Mathematics (All Of It)](https://www.youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK)
+84. [84. Theoretical Probability, Permutations and Combinations](./084-Theoretical-Probability-Permutations-and-Combinations/)
